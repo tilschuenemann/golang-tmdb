@@ -1,7 +1,5 @@
-![Static Badge](https://img.shields.io/badge/version-1.22-blue?style=flat&logo=go&logoColor=white)
-
-
 # golang-TMDB
+![Static Badge](https://img.shields.io/badge/version-1.22-blue?style=flat&logo=go&logoColor=white)
 
 This program will to get the TMDB data for your movie directory by parsing your `movie_dir_path` using regex to extract the query and year.
 
